@@ -1,0 +1,4 @@
+git add .
+git commit -m "Updated feature XYZ or fixed bug ABC"
+git push origin main
+npm run deploy
